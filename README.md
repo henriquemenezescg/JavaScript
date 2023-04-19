@@ -1,2 +1,2 @@
 # JavaScript
- Curso de JavsScript do CursoemVídeo (Guanabara)
+ Curso de JavaScript do CursoemVídeo (Guanabara)
